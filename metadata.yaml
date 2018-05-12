@@ -4,7 +4,7 @@ contributor:
   composer:
     agent_name: Mascagni, Pietro
     alias: Mascagni, P. (Pietro)
-    birthdate: &id001 1863
+    birthdate: 1863
     deathdate: 1945
     gutenberg_agent_id: '5493'
     url: http://www.gutenberg.org/2009/agents/5493
@@ -14,7 +14,7 @@ contributor:
     aliases:
     - Targioni-Tozzetti, G. (Giovanni)
     - Tozzeti, Giovanni Targioni
-    birthdate: *id001
+    birthdate: 1863
     deathdate: 1934
     gutenberg_agent_id: '5491'
     url: http://www.gutenberg.org/2009/agents/5491
@@ -35,6 +35,8 @@ covers:
 - cover_type: archival
   image_path: 14370-h/images/cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14370#Zanetto--and-Cavalleria-Rusticana
 gutenberg_bookshelf:
 - Opera
 - IT Musica
