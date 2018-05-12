@@ -1,0 +1,55 @@
+_repo: Zanetto--and-Cavalleria-Rusticana_14370
+_version: 0.1.0
+contributor:
+  composer:
+    agent_name: Mascagni, Pietro
+    alias: Mascagni, P. (Pietro)
+    birthdate: &id001 1863
+    deathdate: 1945
+    gutenberg_agent_id: '5493'
+    url: http://www.gutenberg.org/2009/agents/5493
+    wikipedia: http://en.wikipedia.org/wiki/Pietro_Mascagni
+  librettists:
+  - agent_name: Targioni-Tozzetti, Giovanni
+    aliases:
+    - Targioni-Tozzetti, G. (Giovanni)
+    - Tozzeti, Giovanni Targioni
+    birthdate: *id001
+    deathdate: 1934
+    gutenberg_agent_id: '5491'
+    url: http://www.gutenberg.org/2009/agents/5491
+  - agent_name: Menasci, Guido
+    alias: Menasci, G. (Guido)
+    birthdate: 1867
+    deathdate: 1925
+    gutenberg_agent_id: '5492'
+    url: http://www.gutenberg.org/2009/agents/5492
+  translator:
+    agent_name: Day, Willard Gibson
+    alias: Day, Willard G. (Willard Gibson)
+    birthdate: 1834
+    deathdate: 1923
+    gutenberg_agent_id: '39512'
+    url: http://www.gutenberg.org/2009/agents/39512
+covers:
+- cover_type: archival
+  image_path: 14370-h/images/cover.png
+description: ''
+gutenberg_bookshelf:
+- Opera
+- IT Musica
+gutenberg_issued: '2004-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14370'
+language:
+- en
+- it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Operas -- Librettos'
+title: Zanetto; and Cavalleria Rusticana
+url: http://www.gutenberg.org/ebooks/14370
